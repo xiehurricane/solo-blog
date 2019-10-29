@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [1 IP分类 CIDR](https://xfield.xyz/articles/2019/10/28/1572257001787.html)
+* [诚接软件开发项目](https://xfield.xyz/articles/2019/10/28/1572256722987.html)
+* [2 什么是DHCP](https://xfield.xyz/articles/2019/10/28/1572255006532.html)
 * [mysql时间错误](https://xfield.xyz/articles/2019/06/24/1561349717506.html)
 * [ssh短时间断开](https://xfield.xyz/articles/2019/06/23/1561278630204.html)
 * [我在 GitHub 上的开源项目](https://xfield.xyz/my-github-repos)
