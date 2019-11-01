@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [代码坏味道](https://xfield.xyz/articles/2019/10/31/1572517450459.html)
 * [1 IP分类 CIDR](https://xfield.xyz/articles/2019/10/28/1572257001787.html)
 * [诚接软件开发项目](https://xfield.xyz/articles/2019/10/28/1572256722987.html)
 * [2 什么是DHCP](https://xfield.xyz/articles/2019/10/28/1572255006532.html)
